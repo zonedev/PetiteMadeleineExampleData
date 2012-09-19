@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>de</key>
+	<dict>
+		<key>name</key>
+		<string>beispiel ausgabe1-name auf deutsch</string>
+		<key>entries</key>
+		<dict>
+			<key>page_01_IMAGE-RECOGNITION_RESPONSE</key>
+			<dict>
+				<key>description</key>
+				<string>beschreibung von seite 01</string>
+				<key>slideshow</key>
+				<dict>
+					<key>description</key>
+					<string>slideshow beschreibung</string>
+					<key>url</key>
+					<string>http://yourdomain.com/absolute/url/to/media/slideshowNr1/slideshowNr1.plist</string>
+				</dict>
+			</dict>
+			<key>page_02_IMAGE-RECOGNITION_RESPONSE</key>
+			<dict>
+				<key>description</key>
+				<string>beschreibung von seite 02</string>
+				<key>media</key>
+				<dict>
+					<key>description</key>
+					<string>beschreibung der video bzw. audio datei</string>
+					<key>url</key>
+					<string>http://yourdomain.com/absolute/url/to/media/petite-madeleine.m4v</string>
+				</dict>
+			</dict>
+			<key>page_03_IMAGE-RECOGNITION_RESPONSE</key>
+			<dict>
+				<key>description</key>
+				<string>beschreibung der seite 03</string>
+				<key>webpage</key>
+				<dict>
+					<key>description</key>
+					<string>freie enzyklopädie</string>
+					<key>url</key>
+					<string>http://en.wikipedia.org/wiki/Main_Page</string>
+				</dict>
+			</dict>
+			<key>page_04_IMAGE-RECOGNITION_RESPONSE</key>
+			<dict>
+				<key>description</key>
+				<string>beschreibung der seite 04</string>
+				<key>text</key>
+				<dict>
+					<key>description</key>
+					<string>beispiel PDF</string>
+					<key>url</key>
+					<string>http://yourdomain.com/absolute/url/to/media/sample.pdf</string>
+				</dict>
+			</dict>
+			<key>page_05_IMAGE-RECOGNITION_RESPONSE</key>
+			<dict>
+				<key>description</key>
+				<string>beschreibung der seite 05</string>
+				<key>youtube</key>
+				<dict>
+					<key>description</key>
+					<string>petite madeleine trailer</string>
+					<key>url</key>
+					<string>http://www.youtube.com/watch?v=kVnkJk8AJ9o</string>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>en</key>
+	<dict>
+		<key>name</key>
+		<string>example issue nr 1 name in english</string>
+		<key>entries</key>
+		<dict>
+			<key>page_01_IMAGE-RECOGNITION_RESPONSE</key>
+			<dict>
+				<key>description</key>
+				<string>description of page 01</string>
+				<key>slideshow</key>
+				<dict>
+					<key>description</key>
+					<string>slideshow description</string>
+					<key>url</key>
+					<string>http://yourdomain.com/absolute/url/to/media/slideshowNr1/slideshowNr1.plist</string>
+				</dict>
+			</dict>
+			<key>page_02_IMAGE-RECOGNITION_RESPONSE</key>
+			<dict>
+				<key>description</key>
+				<string>description of page 02</string>
+				<key>media</key>
+				<dict>
+					<key>description</key>
+					<string>petite madeleine trailer</string>
+					<key>url</key>
+					<string>http://yourdomain.com/absolute/url/to/media/petite-madeleine.m4v</string>
+				</dict>
+			</dict>
+			<key>page_03_IMAGE-RECOGNITION_RESPONSE</key>
+			<dict>
+				<key>description</key>
+				<string>description of page 03</string>
+				<key>webpage</key>
+				<dict>
+					<key>description</key>
+					<string>free encyclopedia</string>
+					<key>url</key>
+					<string>http://en.wikipedia.org/wiki/Main_Page</string>
+				</dict>
+			</dict>
+			<key>page_04_IMAGE-RECOGNITION_RESPONSE</key>
+			<dict>
+				<key>description</key>
+				<string>description of page 04</string>
+				<key>text</key>
+				<dict>
+					<key>description</key>
+					<string>sample PDF</string>
+					<key>url</key>
+					<string>http://yourdomain.com/absolute/url/to/media/sample.pdf</string>
+				</dict>
+			</dict>
+			<key>page_05_IMAGE-RECOGNITION_RESPONSE</key>
+			<dict>
+				<key>description</key>
+				<string>description of page 05</string>
+				<key>youtube</key>
+				<dict>
+					<key>description</key>
+					<string>petite madeleine trailer</string>
+					<key>url</key>
+					<string>http://www.youtube.com/watch?v=kVnkJk8AJ9o</string>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>config</key>
+	<dict>
+		<key>dataset</key>
+		<string>PUT-HERE-YOUR-IMAGE-RECOGNITION-API-DEVELOPER-KEY</string>
+	</dict>
+</dict>
+</plist>

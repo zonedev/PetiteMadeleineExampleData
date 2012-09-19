@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>config</key>
+	<dict>
+		<key>default_issue</key>
+		<string>issue-example</string>
+		<key>issues</key>
+		<dict>
+			<key>issue-example</key>
+			<dict>
+				<key>data_url</key>
+				<string>http://yourdomain.com/absolute/url/to/issue-example.plist</string>
+			</dict>
+			<key>issue-example-2</key>
+			<dict>
+				<key>data_url</key>
+				<string>http://yourdomain.com/absolute/url/to/another-issue.plist</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

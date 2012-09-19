@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Bild1.jpg</string>
+		<key>url</key>
+		<string>http://yourdomain.com/absolute/url/to/media/slideshowNr1/Bild1.jpg</string>
+		<key>thumbnail</key>
+		<string>http://yourdomain.com/absolute/url/to/media/slideshowNr1/thumbnails/Bild1.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bild2.jpg</string>
+		<key>url</key>
+		<string>http://yourdomain.com/absolute/url/to/media/slideshowNr1/Bild2.jpg</string>
+		<key>thumbnail</key>
+		<string>http://yourdomain.com/absolute/url/to/media/slideshowNr1/thumbnails/Bild2.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bild3.jpg</string>
+		<key>url</key>
+		<string>http://yourdomain.com/absolute/url/to/media/slideshowNr1/Bild3.jpg</string>
+		<key>thumbnail</key>
+		<string>http://yourdomain.com/absolute/url/to/media/thumbnails/Bild3.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bild4.jpg</string>
+		<key>url</key>
+		<string>http://yourdomain.com/absolute/url/to/media/slideshowNr1/Bild4.jpg</string>
+		<key>thumbnail</key>
+		<string>http://yourdomain.com/absolute/url/to/media/slideshowNr1/thumbnails/Bild4.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bild5.jpg</string>
+		<key>url</key>
+		<string>http://yourdomain.com/absolute/url/to/media/slideshowNr1/Bild5.jpg</string>
+		<key>thumbnail</key>
+		<string>http://yourdomain.com/absolute/url/to/media/slideshowNr1/thumbnails/Bild5.jpg</string>
+	</dict>
+</array>
+</plist>
