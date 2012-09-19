@@ -6,7 +6,7 @@ All references to other files (media as well as other Property Lists) are absolu
 
 ## master list
 
-Lists all available issues to the system as well as the `default_issue` which is selected on startup. The URL of this file needs to be passed to the `PetiteMadeleineCore` constructor.
+Lists all available **issues** to the system as well as the `default_issue` which is selected on startup. The URL of this file needs to be passed to the `PetiteMadeleineCore` constructor.
 
 ## issues
 
@@ -14,7 +14,7 @@ An **issue** represents a printed publication. Its structure is as follows:
 
 The `config` dictionary speficies an ID (e.g. API Key) for the image recognition service as `dataset`.
 
-petite madeleine supports serving of different content depending on the language settings of the client. Therefore content for each supported language is referenced by lowercase country code.
+petite madeleine supports serving of different content depending on the language settings of the client. Therefore content for each supported language is referenced by a lowercase country code.
 
 This localized content description contains the issues `name` and the `entries` dictionary which lists the content mapped to a specific image. The response from the image recogniton service for a match of the desired image is used as the key to the corresponding **entry**.
 
@@ -34,11 +34,11 @@ Because each **media** dictionary still needs an unique key multiple **media** e
 * `media - 3`
 * `media - 4`
 
-Each **media** dictionary contains a `description` of the linked media as well as an `url` the the linked file (in case of the slideshow another Property List)
+Each **media** dictionary contains a `description` of the linked media as well as an `url` the linked file (in case of the slideshow another Property List)
 
 ## slideshow
 
-Each image in a slideshow is representet as a dictionary containing:
+Each image in a slideshow is represented as a dictionary containing:
 
 * `name` - name/description of the image
 * `url` - URL of the full resolution image
