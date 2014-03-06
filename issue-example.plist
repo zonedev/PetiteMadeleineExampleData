@@ -36,7 +36,7 @@
 			<dict>
 				<key>description</key>
 				<string>beschreibung der seite 03</string>
-				<key>webpage</key>
+				<key>website</key>
 				<dict>
 					<key>description</key>
 					<string>freie enzyklopädie</string>
@@ -104,7 +104,7 @@
 			<dict>
 				<key>description</key>
 				<string>description of page 03</string>
-				<key>webpage</key>
+				<key>website</key>
 				<dict>
 					<key>description</key>
 					<string>free encyclopedia</string>
